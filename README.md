@@ -1,1 +1,3 @@
-# angular-standalone-components-example
+# POC's with Angular
+
+# 1. Standalone Component
